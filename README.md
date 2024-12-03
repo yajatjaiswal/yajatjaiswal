@@ -12,8 +12,12 @@
       <img src="https://skillicons.dev/icons?i=react" width="45" height="45" alt="ReactJs" />
       <br>React js
     </td>
+     <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="ReactJs" />
+      <br>Node js
+    </td>
    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/javascript-icon.svg" alt="icon" width="55" height="55" />
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="55" height="55" />
       <br>Javascript
     <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="55" height="55" />
@@ -26,7 +30,7 @@
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="MongoDB" />
       <br>MongoDB
-      <td align="center" width="90">
+<!--       <td align="center" width="90"> -->
     </td>
     <td align="center" width="90">
         <img src="https://techstack-generator.vercel.app/graphql-icon.svg" width="48" height="48" alt="MySQL" />
@@ -175,5 +179,5 @@ I excel in:
 ---
 
 ## 🚀 **What I Do**  
-🔭 I build scalable, efficient web applications and backend systems with modern technologies.  
+🔭 I build scalable, efficient web applications and Full-Stack web application with modern technologies.  
 🎯 My focus includes **real-time event processing**, **cloud-native services**, and **high-performance computing**.
