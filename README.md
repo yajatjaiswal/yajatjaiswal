@@ -1,6 +1,6 @@
 # <div align="center">💫 Full-Stack Developer | MERN-Stack Developer 💫</div>
 
-<br/>🤝 I’m currently working at **Webkorps** as an **Software Engineer**, solving complex full-stack challenges and building scalable systems.
+<br/>🤝 I’m currently working at **Dev-aashish Capitals Pvt. Ltd** as an **Software Engineer**, solving complex full-stack challenges and building scalable systems.
 <br/>💬 Ask me about **ReactJS**, **Front-end**, **NodeJS**, **NestJS** **Backend Services**, **Databases**, **AWS**, and more! I specialize in delivering solutions that drive efficiency and performance.
 
 ---
